@@ -68,4 +68,4 @@ Go to https://app.webadb.com, press the Add Devices Button and select your phone
 
 **Credits**
 
-Credits to 112cxyz for helping me with the Linux Installation
+Credits to 112cxyz for helping me with the macOS & Linux Installation
