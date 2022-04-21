@@ -66,4 +66,6 @@ After that we’re gonna paste *adb devices* in the console and you will see you
 Go to https://app.webadb.com, press the Add Devices Button and select your phone, Press connect and press the scrcpy button, and then press the play button
 
 
+**Credits**
+
 Credits to 112cxyz for helping me with the Linux Installation
