@@ -40,7 +40,9 @@ And just like that you have successfully installed scoop. Now we’re gonna inst
 
 run *apt install scrcpy* in terminal
 
-
+Ubuntu:
+If packages are not found, try running *sudo add-apt-repository universe* then *sudo add-apt-repository multiverse* then *sudo apt update*
+You'll need the user password for that
 
 **Arch based**
 
